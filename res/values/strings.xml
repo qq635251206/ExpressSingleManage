@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">单号管理</string>
+
+    <string name="title_section1">添加快递单</string>
+    <string name="title_section2">查询快递单</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="text_laijian">来件</string>
+    <string name="text_qingdian">清点</string>
+    <string name="text_chazhao">查找</string>
+
+    <!--类型 -->
+    <string name="type_text">类型:</string>
+    <string name="type_phoneNotCall">电话未接通</string>
+    <string name="type_rejection">拒收</string>
+    <string name="type_pickUp">自取</string>
+    <string name="type_delivery">派送中</string>
+    <string name="type_succes">派送成功</string>
+
+    <!-- 导出类型 -->
+    <string name="export_type">导出类型:</string>
+    <string name="export_type_txt">.txt</string>
+    <string name="export_type_excel">.csv</string>
+    <string name="export_txt">导出.txt</string>
+    <string name="export_excel">导出.csv</string>
+
+    <!--button -->
+    <string name="text_add">添加</string>
+    <string name="text_update">修改</string>
+    <string name="text_find">查询</string>
+    <string name="text_export">导出</string>
+    <string name="text_delete">删除</string>
+
+    <!--item -->
+    <string name="item_number">单号：</string>
+    <string name="item_status">状态：</string>
+    <string name="item_addTime">来件时间：</string>
+    <string name="item_updateTime">派送成功：</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frist">FristActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show">ShowActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
